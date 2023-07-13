@@ -43,11 +43,7 @@ a:focus-visible {
     outline: 1px solid black;
 
 }
-.email {
-    display: flex;
-    gap: 0.5rem;
-    align-items: center;
-}
+
 
 button {
     border: none;
@@ -79,4 +75,10 @@ button:focus-visible {
         flex-direction: column;
         gap: 2rem;
     }
+}
+
+.email {
+    display: flex;
+    gap: 0.5rem;
+    align-items: center;
 }

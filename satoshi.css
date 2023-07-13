@@ -133,46 +133,4 @@
 }
 
 
-@font-face {
-  font-family: 'Satoshi-Bold';
-  src: url('../fonts/Satoshi-Bold.woff2') format('woff2'),
-       url('../fonts/Satoshi-Bold.woff') format('woff'),
-       url('../fonts/Satoshi-Bold.ttf') format('truetype');
-       font-weight: 700;
-       font-display: swap;
-       font-style: normal;
-}
-
-
-@font-face {
-  font-family: 'Satoshi-BoldItalic';
-  src: url('../fonts/Satoshi-BoldItalic.woff2') format('woff2'),
-       url('../fonts/Satoshi-BoldItalic.woff') format('woff'),
-       url('../fonts/Satoshi-BoldItalic.ttf') format('truetype');
-       font-weight: 700;
-       font-display: swap;
-       font-style: italic;
-}
-
-
-@font-face {
-  font-family: 'Satoshi-Black';
-  src: url('../fonts/Satoshi-Black.woff2') format('woff2'),
-       url('../fonts/Satoshi-Black.woff') format('woff'),
-       url('../fonts/Satoshi-Black.ttf') format('truetype');
-       font-weight: 900;
-       font-display: swap;
-       font-style: normal;
-}
-
-
-@font-face {
-  font-family: 'Satoshi-BlackItalic';
-  src: url('../fonts/Satoshi-BlackItalic.woff2') format('woff2'),
-       url('../fonts/Satoshi-BlackItalic.woff') format('woff'),
-       url('../fonts/Satoshi-BlackItalic.ttf') format('truetype');
-       font-weight: 900;
-       font-display: swap;
-       font-style: italic;
-}
 

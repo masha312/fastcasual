@@ -4,8 +4,9 @@ body {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     align-items: baseline;
-    margin: 6rem 4rem;
+    padding: 6rem 4rem;
     font-style: italic;
+    background-color: #fafafa;
 }
 
 h1 {
